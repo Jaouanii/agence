@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.title-form{
+    font-size: 1.6rem;
+}
+
+.form-case{
+    border: 1px black solid;
+    height: 120px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 5%;
+    align-content: center;
+    background:rgba(0, 0, 255, 0.544);
+    box-shadow: 12px 12px 2px 10px rgba(0, 0, 255, .2);
+    padding: 2%;
+}
+
+.but-form{
+    padding: 2% 10% 2% 10%;
+    margin: 2%;
+    border-radius: 8px;
+    
+}
+
+button:hover {
+    border-color: #646cff;
+  }
